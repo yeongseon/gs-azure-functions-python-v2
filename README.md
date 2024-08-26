@@ -1,1 +1,1 @@
-# gs-azure-functions-python
+# gs-azure-functions-python-v2
